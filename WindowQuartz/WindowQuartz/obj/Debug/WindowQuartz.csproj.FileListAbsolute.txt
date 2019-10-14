@@ -1,0 +1,10 @@
+C:\Users\CevilleXu\Desktop\Window\QuartzServer\WindowQuartz\bin\Debug\WindowQuartz.exe.config
+C:\Users\CevilleXu\Desktop\Window\QuartzServer\WindowQuartz\bin\Debug\WindowQuartz.exe
+C:\Users\CevilleXu\Desktop\Window\QuartzServer\WindowQuartz\bin\Debug\WindowQuartz.pdb
+C:\Users\CevilleXu\Desktop\Window\QuartzServer\WindowQuartz\bin\Debug\Quartz.dll
+C:\Users\CevilleXu\Desktop\Window\QuartzServer\WindowQuartz\bin\Debug\Quartz.pdb
+C:\Users\CevilleXu\Desktop\Window\QuartzServer\WindowQuartz\bin\Debug\Quartz.xml
+C:\Users\CevilleXu\Desktop\Window\QuartzServer\WindowQuartz\obj\Debug\WindowQuartz.csproj.CoreCompileInputs.cache
+C:\Users\CevilleXu\Desktop\Window\QuartzServer\WindowQuartz\obj\Debug\WindowQuartz.csproj.CopyComplete
+C:\Users\CevilleXu\Desktop\Window\QuartzServer\WindowQuartz\obj\Debug\WindowQuartz.exe
+C:\Users\CevilleXu\Desktop\Window\QuartzServer\WindowQuartz\obj\Debug\WindowQuartz.pdb
